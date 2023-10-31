@@ -1,2 +1,2 @@
 # React 
-- React app with vite typescript.
+- React + TypeScript app with Vite.
