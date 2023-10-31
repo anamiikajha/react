@@ -1,2 +1,2 @@
 # React 
-- React app with vite typescript practice.
+- React app with vite typescript.
